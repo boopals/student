@@ -1,0 +1,26 @@
+{
+  "master": [
+    {
+      "period1":"tamil",
+      "period2":"english",
+      "period3":"maths",
+      "period4":"physics",
+      "period5":"chemistry",
+      "period6":"computer",
+      "period7":"bialogy",
+      "period8":"PT"
+    },
+    {
+      "period1":"english",
+      "period2":"maths",
+      "period3":"chemistry",
+      "period4":"computer",
+      "period5":"bialogy",
+      "period6":"PT",
+      "period7":"tamil",
+      "period8":"PT"
+    }
+
+ 
+]
+}

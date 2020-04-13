@@ -1,0 +1,17 @@
+
+
+{
+  "details": [
+    {
+      "username": "boopal",
+      "password": "boopal",
+      "role": "staff"
+    },
+    {
+      "username": "king",
+      "password": "king",
+      "role": "student"
+    }
+  ]
+  
+}
